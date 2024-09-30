@@ -14,7 +14,7 @@ A portable Emacs Org Mode setup with instant HTML preview and auto-refresh funct
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/emacs-org-instant-preview.git
+   git clone https://github.com/Foadsf/emacs-org-instant-preview
    ```
 2. Copy the `.dir-locals.el` file to your Org Mode project directory.
 
