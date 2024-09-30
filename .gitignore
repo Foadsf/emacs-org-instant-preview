@@ -1,0 +1,11 @@
+# Ignore HTML files
+*.html
+
+# Ignore Emacs backup files
+*~
+
+# Ignore auto-save files
+\#*\#
+
+# Ignore .DS_Store files on macOS
+.DS_Store

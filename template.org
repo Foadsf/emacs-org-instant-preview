@@ -1,0 +1,29 @@
+#+TITLE: My Org Document
+#+AUTHOR: Your Name
+#+DATE: [Current Date]
+
+* Welcome to Org Mode
+This is a simple Org Mode document to get you started.
+
+** Features of this setup
+- Instant HTML preview
+- Auto-refresh on save
+- Maximized Emacs window
+
+** TODO List
+*** TODO Try out this awesome Emacs setup
+*** TODO Customize it to your liking
+*** TODO Share with friends!
+
+** Code Example
+Here's a simple code block:
+
+#+BEGIN_SRC python
+def hello_world():
+    print("Hello, Org Mode!")
+
+hello_world()
+#+END_SRC
+
+** Conclusion
+Enjoy your enhanced Org Mode experience!
